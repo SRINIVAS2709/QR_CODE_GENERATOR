@@ -13,7 +13,7 @@ generateBtn.onclick = function(){
 
     if(!input){
 
-        alert("Can't be Empty and need to be diffrent with previous Text..")
+        alert("Can't be Empty")
         return
     }
 
